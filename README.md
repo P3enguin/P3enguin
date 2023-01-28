@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yasser</h1>
-<h3 align="center">IT student and a passionate Software Developer!<br></h3>
+<h1 align="center">Hi Everyone👋, I'm Yasser, IT student and a passionate Software Developer!</h1>
 
-<!-- <p align="center" >
+<!-- <h3 align="left">IT student and a passionate Software Developer!<br></h3> -->
 
-  <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" alt="animated" width="600" >
+<p align="center" >
 
-</p> -->
+  <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" alt="animated" width="1200" >
+
+</p>
 
 
 - 🔭 I’m currently working on **42-transcendence**
