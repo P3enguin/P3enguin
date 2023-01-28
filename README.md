@@ -1,21 +1,10 @@
-<!-- ### Hi there 👋
-
-![Alt Text](https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif)
-
-Hi I am Yasser,a software developer student from Morocco.
-- 🔭 I’m currently working on 42_trancendence
-- 🌱 I’m currently learning Web Development
-
-
-
-
-
- -->
 <h1 align="center">Hi 👋, I'm Yasser</h1>
 <h3 align="center">IT student and a passionate Software Developer!<br></h3>
 
 <p align="center" >
-  <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" alt="animated" width="600"/>
+
+  <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" alt="animated" width="600" >
+
 </p>
 
 
