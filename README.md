@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yasser</h1>
 <h3 align="center">IT student and a passionate Software Developer!<br></h3>
 
-<p align="center" >
+<!-- <p align="center" >
 
   <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" alt="animated" width="600" >
 
-</p>
+</p> -->
 
 
 - 🔭 I’m currently working on **42-transcendence**
