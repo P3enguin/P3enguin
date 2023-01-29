@@ -32,12 +32,12 @@
         </style>
   
         <div class="container">
-      
-              <p> - 🔭 I’m currently working on **42-transcendence**</p>
+              <div class="type1 typed">
+                <p> - 🔭 I’m currently working on **42-transcendence**</p>
               </div>
 
               <div class="type2 typed">
-              <p> - 🌱 I’m currently learning Web development: **NextJs and NestJS**</p>
+                <p> - 🌱 I’m currently learning Web development: **NextJs and NestJS**</p>
               </div>
 
               <div class="type3 typed">
@@ -58,10 +58,7 @@
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
                 </p>
               </div>
-              <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p3enguin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="p3enguin" /></p>
-              
-              <p>&nbsp;<img align="center" src
-           ="https://github-readme-stats.vercel.app/api?username=p3enguin&show_icons=true&locale=en&theme=tokyonight" alt="p3enguin" /></p> -->
+       
         </div>
       </div>
     </foreignObject>
