@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone👋, I'm Yasser, IT student and a passionate Software Developer!</h1>
+<h1 align="center">Hi Everyone👋, I'm Yasser, IT student and a passionate Developer!</h1>
 
 <!-- <h3 align="left">IT student and a passionate Software Developer!<br></h3> -->
 
