@@ -4,7 +4,7 @@
 
 <p align="center" >
 
-  <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" alt="animated" width="1200" >
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/81469728913954417/393B1C9C0ABAB423E822EB0B189A2CE844DE3DA6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="animated" width="1200" >
 
 </p>
 
